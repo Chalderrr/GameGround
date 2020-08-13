@@ -7,7 +7,7 @@
             Popular Games
         </h2>
 
-        <div class="popular-games text-sm grid grid-cols-6 gap-12 border-b border-gray-800 pb-16">
+        <div class="popular-games text-sm grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 xl:grid-cols-6 gap-12 border-b border-gray-800 pb-16">
             <div class="game mt-8">
                 <div class="relative inline-block">
 
@@ -95,8 +95,8 @@
         </div>
 
 
-        <div class="flex my-10">
-            <div class="recently-reviewed w-3/4 mr-32">
+        <div class="flex flex-col lg:flex-row my-10">
+            <div class="recently-reviewed w-full lg:w-3/4 lg:mr-32">
                 <h2 class="text-blue-500 uppercase tracking-wide font-semibold">Recently Reviewed</h2>
                 <div class="recently-reviewed-container space-y-12 mt-8">
                     <div class="game bg-gray-800 rounded-lg shadow-md flex px-6 py-6">
@@ -111,17 +111,17 @@
 
                         </div>
 
-                        <div class="ml-12">
+                        <div class="ml-6 lg:ml-12">
                             <a href="" class="block text-large font-semibold leading-tight hover:text-gray-400 mt-4">Final Fantasy 7 Remake</a>
                             <div class="text-gray-400 mt-1">Playstation 4</div>
-                            <p class="mt-6 text-gray-400">
+                            <p class="mt-6 text-gray-400 hidden lg:block">
                                 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid nam perspiciatis porro quo sunt! Accusantium aliquam aspernatur consequuntur deserunt id nemo quibusdam! Asperiores explicabo, iste nesciunt quae quam qui repellat.
                             </p>
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="most-antiscipated w-1/4">
+            <div class="most-antiscipated w-full lg:w-1/4 mt-12 lg:mt-0">
                 <h2 class="text-blue-500 uppercase tracking-wide font-semibold">Most Anticipated</h2>
                 <div class="most-antcipated-container space-y-10 mt-8">
                     <div class="game flex">
