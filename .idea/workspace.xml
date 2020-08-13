@@ -117,6 +117,7 @@
       <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
       <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
       <path value="$PROJECT_DIR$/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/vendor/livewire/livewire" />
     </include_path>
   </component>
   <component name="ProjectId" id="1g2aRHSHHsUvj6rIVaPjd7G3Li7" />
@@ -166,7 +167,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1597315131695</updated>
-      <workItem from="1597315133191" duration="13921000" />
+      <workItem from="1597315133191" duration="15451000" />
     </task>
     <servers />
   </component>
@@ -177,6 +178,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="690" y="275" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1597342749595">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="275" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1597342749595" />
     <state width="1877" height="275" key="GridCell.Tab.0.bottom" timestamp="1597317640685">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -193,9 +198,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="275" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1597317640685" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1597335790288">
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1597342679721">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1597335790288" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1597342679721" />
   </component>
 </project>

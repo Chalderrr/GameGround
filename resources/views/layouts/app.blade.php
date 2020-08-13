@@ -6,6 +6,8 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>GameGround</title>
     <link rel="stylesheet" href="/css/main.css">
+
+    <livewire:styles />
 </head>
 <body class="bg-gray-900 text-white">
 
@@ -46,5 +48,6 @@
     </div>
 </footer>
 
+<livewire:scripts />
 </body>
 </html>
